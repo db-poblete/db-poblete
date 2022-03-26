@@ -40,10 +40,12 @@ Here are some ideas to get you started:
 
 <h3>📚 Currently Learning</h3>
 
-<div display="inline" align="center" width=60%>
+<div display="inline" align="center">
   
   <img src="https://img.shields.io/badge/Kotlin-806FE2?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/AndroidStudio-3DDB84?style=for-the-badge&logo=androidstudio&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-669ad3?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  </br>
+  <img src="https://img.shields.io/badge/OpenCV-FF0101?style=for-the-badge&logo=OpenCV&logoColor=white" />
   
 </div>
